@@ -6,7 +6,6 @@
   :dependencies [
                   [org.clojure/clojure "1.8.0"]
                   [http-kit "2.1.18"]
-                  [criterium "0.4.4"]
                   ]
   :main ^:skip-aot ocean.core
   :target-path "target/%s"
